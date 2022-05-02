@@ -16,3 +16,4 @@ apt install python3 (optional)
 5- python3 İnfoNumb.py
 
 
+![Ekran Görüntüsü (41)](https://user-images.githubusercontent.com/86168164/166287282-e9b82829-007b-44ab-bf44-e7a66094fe3c.jpg)
